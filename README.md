@@ -9,7 +9,7 @@ needed to recognize these five digits. Perfect recognition of these codes is nec
 order to sort mail automatically and efficiently.
 
 # Dataset used
-Dataset is take from famous [UCI Machine Learning repository] (http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits)
+Dataset is take from famous [UCI ML Repository](http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits)
 
 # Requirements
 * numpy
@@ -38,4 +38,5 @@ training set and will use the last six as a validation set.
 # Prediction using train_test_split
 ![](img6.png)
 
-we get correct answer with simplest model…!!! you can also try with other samples
+you can also try with other samples
+for detailed description you can check my [medium post](https://medium.com/@sainiabhilash/recognizing-handwritten-digits-using-svm-edc9096d0183)
